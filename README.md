@@ -1,2 +1,2 @@
 # yandex_lyceum_project
-тут будет ссылка на архив если я не разберусь как заливать файлы в гитхаб
+https://disk.yandex.ru/d/rB8pzTQ-dfPgLw
